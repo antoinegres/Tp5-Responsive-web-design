@@ -178,7 +178,7 @@ input.submit {
 #albums article img {
     border: 1px solid #cbcbcb;
     transition: all 0.3s;
-    width: 100%;
+    max-width: 100%;
 }
 
 #albums article img:hover {
